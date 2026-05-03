@@ -130,11 +130,13 @@
     <ClInclude Include="Application.hpp" />
     <ClInclude Include="Command.hpp" />
     <ClInclude Include="Geometry.hpp" />
+    <ClInclude Include="Sphere.hpp" />
     <ClInclude Include="STLParser.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Application.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Sphere.cpp" />
     <ClCompile Include="STLParser.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
