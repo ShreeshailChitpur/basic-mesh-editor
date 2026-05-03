@@ -4,7 +4,7 @@
 
 MeshEditor is a C++ command-line application that processes ASCII STL files. It supports generating and manipulating 3D meshes using a modular command-based architecture.
 
-This project is based on a lab assignment focused on building core geometry processing features from scratch, including parsing STL files and generating tessellated meshes.
+This project focuses on building core geometry processing features from scratch, including parsing STL files and generating tessellated meshes.
 
 ---
 
