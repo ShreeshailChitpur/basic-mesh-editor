@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="MeshEditor.vcxproj" />
+  <Project Path="MeshEditor.vcxproj" Id="dc44ba74-6b19-4a22-9405-277a58b06361" />
 </Solution>
