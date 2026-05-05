@@ -33,6 +33,9 @@
     <ClInclude Include="Cube.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Split.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Application.cpp">
@@ -48,6 +51,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Cube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Split.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

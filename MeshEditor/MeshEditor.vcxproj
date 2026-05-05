@@ -132,6 +132,7 @@
     <ClInclude Include="Cube.hpp" />
     <ClInclude Include="Geometry.hpp" />
     <ClInclude Include="Sphere.hpp" />
+    <ClInclude Include="Split.hpp" />
     <ClInclude Include="STLParser.hpp" />
   </ItemGroup>
   <ItemGroup>
@@ -139,6 +140,7 @@
     <ClCompile Include="Cube.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Sphere.cpp" />
+    <ClCompile Include="Split.cpp" />
     <ClCompile Include="STLParser.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
